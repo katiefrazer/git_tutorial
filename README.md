@@ -1,2 +1,2 @@
 # git_tutorial
-coding and cookies git version control
+csu coding and cookies - learning git version control
