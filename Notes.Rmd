@@ -16,3 +16,13 @@ The first step in this process is to *make some changes*, which are unstaged cha
 ![](images/Screenshot 2024-10-02 111208.png)
 
 When you are done making modifications, you should *add the desired file to the staging area*.
+
+![](images/Screenshot 2024-10-02 111529.png)
+
+Once the changes have been committed, you *commit your changes.*
+
+![](images/Screenshot 2024-10-02 112259.png)
+
+When your changes are committed, you *push your changes* to the Git repository.
+
+![](images/Screenshot 2024-10-02 112351.png)
