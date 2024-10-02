@@ -26,3 +26,13 @@ Once the changes have been committed, you *commit your changes.*
 When your changes are committed, you *push your changes* to the Git repository.
 
 ![](images/Screenshot 2024-10-02 112351.png)
+
+# GitHub Learning Achievements
+
+-   Learned about how to stage, commit, and push changes in R.
+
+-   Shared my git repository with other collaborators.
+
+-   Learned how to pull changes made by other collaborators.
+
+-   Saved another student's git repository locally, made changes, and pushed to the repo.
